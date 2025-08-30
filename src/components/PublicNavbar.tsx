@@ -19,9 +19,9 @@ export default function PublicNavbar() {
 
   const navItems = [
     { name: 'Home', href: '/' },
-    { name: 'Specializations', href: '/public/specializations' },
-    { name: 'About', href: '/public/about' },
-    { name: 'Contact', href: '/public/contact' },
+    { name: 'Specializations', href: '/my-public/specializations' },
+    { name: 'About', href: '/my-public/about' },
+    { name: 'Contact', href: '/my-public/contact' },
   ];
 
   return (

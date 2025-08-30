@@ -75,10 +75,10 @@ export default function AuthNavbar() {
 
   const navItems = [
     { name: 'Home', href: '/' },
-    { name: 'Specializations', href: '/public/specializations' },
-    { name: 'About', href: '/public/about' },
-    { name: 'Contact', href: '/public/contact' },
-    { name: 'My Appointments', href: '/public/myAppointment' },
+    { name: 'Specializations', href: '/my-public/specializations' },
+    { name: 'About', href: '/my-public/about' },
+    { name: 'Contact', href: '/my-public/contact' },
+    { name: 'My Appointments', href: '/my-public/myAppointment' },
   ];
 
   return (

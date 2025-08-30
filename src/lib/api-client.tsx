@@ -2,7 +2,7 @@ import axios from "axios";
 import { jwtDecode } from "jwt-decode";
 
 export const apiClient = axios.create({
-  baseURL: "http://localhost:8080",
+  baseURL: process.env.NEXT_PUBLIC_API_URL,
 });
 
 function isTokenExpired(token: string) {
