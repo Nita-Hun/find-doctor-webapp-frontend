@@ -1,0 +1,30 @@
+<!-- public/logo.svg -->
+<svg
+  width="180"
+  height="48"
+  viewBox="0 0 180 48"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g>
+    <path
+      d="M8 24H18M18 24L22 16M22 16L26 32M26 32L30 20M30 20H40"
+      stroke="#EF4444"
+      stroke-width="2.5"
+      stroke-linecap="round"
+    />
+    <circle cx="52" cy="24" r="10" fill="#FEE2E2" fill-opacity="0.8" stroke="#EF4444" stroke-width="1.5" />
+    <path d="M52 18V30M46 24H58" stroke="#EF4444" stroke-width="1.5" stroke-linecap="round" />
+  </g>
+  <text
+    x="68"
+    y="28"
+    font-family="'Inter', sans-serif"
+    font-size="20"
+    fill="#1D4ED8"
+    font-weight="600"
+    letter-spacing="0.3px"
+  >
+    FindDoctor
+  </text>
+</svg>
